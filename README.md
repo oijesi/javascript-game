@@ -3,5 +3,4 @@ This is a game developed by me in 2018 with html, css and javascript, being part
 
 Result: 
 
-https://ghostrun.netlify.com/
-https://youtu.be/4EMcoGVt87g
+https://ghostrun.netlify.com/ | https://youtu.be/4EMcoGVt87g
